@@ -5,7 +5,7 @@ Olá! Este é o Strategix, um dashboard de inside sales que nasceu de um desafio
 A ideia era não só replicar as funcionalidades, mas elevá-las, aplicando as melhores práticas de arquitetura front-end que uso no dia a dia.
 
 **Curioso para ver o resultado? Acesse a demo ao vivo!**
-**[https://strategix-demo.vercel.app/](strategix-flame.vercel.app)**
+**[https://strategix-demo.vercel.app/](https://vercel.com/tzller/strategix)**
 
 <br/>
 
