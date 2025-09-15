@@ -9,7 +9,7 @@ A ideia era não só replicar as funcionalidades, mas elevá-las, aplicando as m
 
 <br/>
 
-![Pré-visualização do Dashboard Strategix](https://i.imgur.com/your-image-url.png)
+![Pré-visualização do Dashboard Strategix](https://imgur.com/a/wsI5bHS)
 
 ---
 
