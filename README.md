@@ -55,7 +55,7 @@ Ficou curioso para explorar o código? É bem simples:
 
 1.  **Clone o projeto:**
     ```bash
-    git clone [https://github.com/raphael-bda/strategix.git](https://github.com/SEU_USUARIO/strategix.git)
+    git clone [https://github.com/raphael-bda/strategix.git](https://github.com/raphael-bda/strategix.git)
     ```
     *(Lembre-se de trocar pela URL do seu repositório)*
 
